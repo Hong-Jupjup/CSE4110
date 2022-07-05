@@ -1,0 +1,4 @@
+﻿  20181702.c
+C:\Users\samsung\Desktop\DB 프로젝트\Project2\Project2\20181702.c(304,7): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\samsung\Desktop\DB 프로젝트\Project2\Project2\20181702.c(392,7): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  Project2.vcxproj -> C:\Users\samsung\Desktop\DB 프로젝트\Project2\x64\Debug\Project2.exe
